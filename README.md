@@ -2,5 +2,5 @@
 
 | Property      | Default value | Description |
 | ------------- | ------------- |-------------|
-| Content Cell  | Content Cell  |Content Cell  |
+| banner.charset  | UTF-8  |It is used to set banner file encoding.  |
 | Content Cell  | Content Cell  |Content Cell  |
