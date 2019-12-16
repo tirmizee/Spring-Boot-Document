@@ -54,9 +54,9 @@
 | logging.file.total-size-cap  | 0B  |
 | logging.group.*  |   |
 | logging.level.*  |   |
-| logging.pattern.console  | %clr(%d{${LOG_DATEFORMAT_PATTERN:-yyyy-MM-dd HH:mm:ss.SSS}}){faint} %clr(${LOG_LEVEL_PATTERN:-%5p}) %clr(${PID:- }){magenta} %clr(---){faint} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%n${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}  |
+| logging.pattern.console  |   |
 | logging.pattern.dateformat  | yyyy-MM-dd HH:mm:ss.SSS  |
-| logging.pattern.file  | %d{${LOG_DATEFORMAT_PATTERN:-yyyy-MM-dd HH:mm:ss.SSS}} ${LOG_LEVEL_PATTERN:-%5p} ${PID:- } --- [%t] %-40.40logger{39} : %m%n${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}  |
+| logging.pattern.file  | |
 | logging.pattern.level  | %5p  |
 | logging.pattern.rolling-file-name  | ${LOG_FILE}.%d{yyyy-MM-dd}.%i.gz  |
 | logging.register-shutdown-hook  | FALSE  |
