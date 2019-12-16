@@ -1,5 +1,5 @@
 # Spring-Boot-Document
-# คู่มือการใช้งาน
+คู่มือการใช้งาน
 
 ## Common Application properties
 
