@@ -37,3 +37,5 @@
 | spring.social.twitter.app-id  |   |
 | security.basic.authorize-mode  | role  |
 | security.basic.enabled  | TRUE  |
+
+## 1. Core properties
