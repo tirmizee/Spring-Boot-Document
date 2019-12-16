@@ -1,6 +1,6 @@
 # Spring-Boot-Document
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Property      | Default value | Description |
+| ------------- | ------------- |-------------|
+| Content Cell  | Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  |
