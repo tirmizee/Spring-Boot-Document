@@ -1,5 +1,7 @@
 # Spring-Boot-Document
 
+## Common Application properties
+
 | Property      | Default value | Description |
 | ------------- | ------------- |-------------|
 | banner.charset  | UTF-8  |ใช้เพื่อตั้งค่าการเข้ารหัสไฟล์แบนเนอร์  |
