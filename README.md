@@ -40,6 +40,8 @@
 
 ## 1. Core properties
 
+| Key      | Default value | Description |
+| ------------- | ------------- |-------------|
 | debug  | FALSE  |
 | info.*  |   |
 | logging.config  |   |
