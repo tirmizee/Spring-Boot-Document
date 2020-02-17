@@ -1,7 +1,7 @@
 # Spring-Boot-Document
-คู่มือการใช้งาน
+ทบทวนเนื้อหา Spring Boot
 
-## Common Application properties
+### Common Application properties
 
 | Key      | Default value | Description |
 | ------------- | ------------- |-------------|
