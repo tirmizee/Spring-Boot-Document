@@ -34,3 +34,4 @@
 
 - https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto-data-access
 - https://netsurfingzone.com/spring/transactional-required-vs-requires_new-example-in-spring-boot/
+- https://www.javainuse.com/spring/boot-transaction-propagation
