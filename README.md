@@ -34,6 +34,18 @@
 
 - @Controller
 
+- @RequestMapping
+
+- @RequestParam
+
+- @PathVariable
+
+- @RequestBody
+
+- @ResponseBody
+
+- @ResponseStatus
+
 ## Reference
 
 - https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto-data-access
