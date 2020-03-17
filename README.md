@@ -30,6 +30,10 @@
 
 ### Annotation Conditional
 
+### Annotation MVC 
+
+- @Controller
+
 ## Reference
 
 - https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto-data-access
