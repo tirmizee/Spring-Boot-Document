@@ -38,6 +38,8 @@
 
 - @RequestParam
 
+- @RequestHeader
+
 - @PathVariable
 
 - @RequestBody
