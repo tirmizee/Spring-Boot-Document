@@ -36,6 +36,15 @@
 - InputStreamResource
 - ByteArrayResource
 
+#### prefixes for creating path
+
+| Prefix      | Sample | Description |
+| ------------- | ------------- |-------------|
+| classpath:  | classpath:config/config.xml  | Loaded from the classpath.  |
+| file: | file:///data/config.xml  | Loaded as a URL from the filesystem. |
+| http: | https://myserver/logo.png  | Loaded as a URL. |
+| (none) | /data/config.xml  | Depends on the underlying ApplicationContext. |
+
 ### Annotation Conditional
 
 - @Controller
