@@ -27,10 +27,16 @@
           SpringApplication.run(SpringBootJApplication.class, args);
         }
       }
+      
+### Resource
+- UrlResource
+- ClassPathResource
+- FileSystemResource
+- ServletContextResource
+- InputStreamResource
+- ByteArrayResource
 
 ### Annotation Conditional
-
-### Annotation MVC 
 
 - @Controller
 
